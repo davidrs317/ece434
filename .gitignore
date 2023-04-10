@@ -1,0 +1,8 @@
+**/venv/
+**/.ipynb_checkpoints/
+**/.cache/**
+**/.local/**
+**/.ipython/**
+**/.jupyter/**
+**/.DS_Store
+**/.python-version
